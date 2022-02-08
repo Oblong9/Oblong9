@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Oblong9
+- 👀 I’m interested in Java, C#, C++, Python, and Web Development
+- 🌱 I’m currently learning Web Development, Python
+- 💞️ I’m looking to collaborate on any fun project
+- 📫 How to reach me smuibus9@gmail.com
