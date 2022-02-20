@@ -4,6 +4,6 @@
 🏠: New Jersey  
 🚗: I used to own a Veloster N 😢  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oblong9&theme=panda&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oblong9&theme=panda&show_icons=true)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oblong&theme=panda)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblong9&theme=panda)  
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Oblong&theme=panda)
