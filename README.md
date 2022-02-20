@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Oblong9
-- 👀 I’m interested in Java, C#, C++, Python, and Web Development
-- 🌱 I’m currently learning Web Development, Python
-- 💞️ I’m looking to collaborate on any fun project
-- 📫 How to reach me smuibus9@gmail.com
+![Oblong9's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oblong9)](https://github.com/anuraghazra/github-readme-stats)
