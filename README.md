@@ -1,6 +1,6 @@
 👋 I'm Oblong or Spencer  
 💻 I'm an aspiring software developer/engineer currently enrolled in college.  
-🧠 I've learned HTML, CSS, and a little bit of JS. I'm currently working on learning Python to build some cool apps.  
+🧠 I have various projects ranging from an web calculator in HTML, CSS and Java to a password vault in Python.
 🏠: New Jersey  
 🚗: Elantra N 
 
